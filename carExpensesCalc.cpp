@@ -1,8 +1,3 @@
-**********************************************************\
-* Author: Jonmancia
-* Title: Car Expenses Calc
-* Version: 1.0
-**********************************************************\
 #include <iostream>
 using namespace std;
 
